@@ -1,0 +1,30 @@
+{
+  "author": {
+  },
+  "bugs": {
+    "url": "https://phabricator.wikimedia.org"
+  },
+  "dependencies": {
+    "store": "^1.3.14"
+  },
+  "description": "Local Storage Module",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {},
+  "homepage": "https://github.com/christopher-johnson/wdqs-storage",
+  "license": "MIT",
+  "main": "src/main.js",
+  "maintainers": [
+    {
+      "name": "Christopher Johnson",
+      "email": "christopher.johnson@wikimedia.org"
+    }
+  ],
+  "name": "wdqs-storage",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/christopher-johnson/wdqs-storage.git"
+  },
+  "version": "0.1.1"
+}
